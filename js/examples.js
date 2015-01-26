@@ -308,4 +308,3 @@ var game6 = new GameOfLife({
 });
 add_listeners(game6, "example6");
 
-
